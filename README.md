@@ -22,7 +22,8 @@ https://catalog.data.gov/dataset/global-landslide-catalog-export
 
 # Overview of Disaster Database along China–Laos Kunming–Vientiane Railway (DD-CLKV-Rail)
 Based on the China-Laos Railway Alignment—Geologic Disaster—POI—Data, Administrative divisions along the China-Laos Railway and prior knowledge dataset, the distribution map of Geologic Disaster along railroads is generated,  as shown in the figure below:
-result/中老铁路沿线地质灾害点分布图（中国段）.jpg
+![中老铁路沿线地质灾害点分布图（中国段）](https://github.com/user-attachments/assets/a7c4db2c-ee08-447c-8a63-46aed266256d)
+![中老铁路沿线地质灾害点分布图（老挝段）](https://github.com/user-attachments/assets/9e0bb790-e252-4a3b-a482-529079a6a0ab)
 
 
 
