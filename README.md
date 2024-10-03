@@ -13,9 +13,11 @@ Name, era, category, location, sources, range of threats
 
 # Dataset basis
 EM-DAT - The international disaster database
+
 https://www.emdat.be/
 
 Global Landslide Catalog (GLC) compiled by NASA
+
 https://catalog.data.gov/dataset/global-landslide-catalog-export
 
 # Overview of Disaster Database along China–Laos Kunming–Vientiane Railway (DD-CLKV-Rail)
